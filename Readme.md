@@ -1,4 +1,4 @@
-## Team Member
+# Team Member
 
 1. Susan Sapkota-PUR080BCT091
 2. Pratik Acharya-PUR080BCT063
